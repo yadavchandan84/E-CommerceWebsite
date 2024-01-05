@@ -16,3 +16,6 @@
 
 ### Order confirm page
 ![4](https://user-images.githubusercontent.com/17312616/65086779-b2efdd80-d9d0-11e9-95d5-4b1a48eafe04.png)
+ ![category-3](https://github.com/yadavchandan84/E-CommerceWebsite/assets/128459806/790e9b15-d618-4f0b-b954-a1f919e1794e)
+![new1](https://github.com/yadavchandan84/E-CommerceWebsite/assets/128459806/4920939f-a976-42b2-8b05-b404b388ae92)
+![buy-1](https://github.com/yadavchandan84/E-CommerceWebsite/assets/128459806/b407ae42-9c35-4870-b4c1-48b8c2cac86e)
