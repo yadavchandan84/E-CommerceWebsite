@@ -4,6 +4,9 @@
  ![category-3](https://github.com/yadavchandan84/E-CommerceWebsite/assets/128459806/790e9b15-d618-4f0b-b954-a1f919e1794e)
   ![new1](https://github.com/yadavchandan84/E-CommerceWebsite/assets/128459806/4920939f-a976-42b2-8b05-b404b388ae92)
 
+![buy-1](https://github.com/yadavchandan84/E-CommerceWebsite/assets/128459806/34cc1e8a-2562-4e88-af5b-aefde2bddb69)
+
+![buy-3](https://github.com/yadavchandan84/E-CommerceWebsite/assets/128459806/11348042-25ff-4b96-a52b-fb66fabe8fac)
 
 
 ### Content Description page
