@@ -422,4 +422,4 @@ Contributions are welcome. Please fork the repository and open a pull request. F
 ---
 
 ## Contact
-For support or inquiries, please open an issue or email: ramnath2544@gmail.com.
+For support or inquiries, please open an issue or email: yadavchandan6103@gmail.com.
